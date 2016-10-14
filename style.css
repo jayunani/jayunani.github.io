@@ -59,12 +59,12 @@ body {
     height: 12%;
 }
 
-#gmail {
-    height: 13%;
-    margin-left: -2%;
+#github {
+    height: 11%;
+    margin-left: 5%;
 }
 
 #joke-tagline {
-    font-size: 7%;
+    font-size: 10%;
     align-self: flex-end;
 }
