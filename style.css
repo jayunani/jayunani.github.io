@@ -19,12 +19,16 @@ body {
     font-family: futura;
 }
 
+#title-container {
+    font-size: 110%;
+}
+
 #headline {
     font-size: 110%;
 }
 
 #body-container {
-    border-top: 5px solid royalblue;
+    border-top: 10px solid royalblue;
     margin-top: 5%;
 }
 
@@ -52,10 +56,15 @@ body {
 }
 
 #linked-in {
-    height: 8%;
+    height: 7%;
 }
 
 #gmail {
-    height: 9.2%;
-    margin-left: -3.5px;
+    height: 8%;
+    margin-left: -2%;
+}
+
+#joke-tagline {
+    font-size: 7%;
+    align-self: flex-end;
 }
