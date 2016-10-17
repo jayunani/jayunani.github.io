@@ -32,7 +32,7 @@ body {
     margin-top: 5%;
 }
 
-.typewriter h1 {
+.typewriter div {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid royalblue; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
